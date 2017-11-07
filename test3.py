@@ -57,4 +57,3 @@ for i in range(2000):
         # plot the prediction
         lines = ax.plot(x_data, prediction_value, 'r-', lw=5)
         plt.pause(0.1)
-#  test11111111111
